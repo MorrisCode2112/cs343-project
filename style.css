@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(107, 105, 105);
+}
+
+.test-header {
+  padding: 20px !important;
+  font-family: "Fantasy", Papyrus, sans-serif !important;
+}
+
+.row {
+  display: flex;
+  /* Use Flexbox */
+}
+
+.page-side {
+  width: 25%
+}
+
+.page-center { /*Literaly just used on the welcome page*/
+  font-size: 20px;
+  font-family: "Monospace", Monaco, sans-serif;
+  width: 50%
+}
