@@ -1,0 +1,44 @@
+h1 {
+    font-size: 29px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+nav {
+    font-size: 21px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    color: black;
+    text-decoration: none;
+}
+
+ul#menu li a:visited {
+    color:black
+}
+
+ul#menu li a:hover {
+    background-color: blue;
+}
+
+.boxed {
+    border: 2px solid black;
+    margin: 0; /* remove default spacing */
+    display: block;
+  }
+
+  #items {
+    font-size: 24px;
+    font-family: 'Courier New', monospace;
+  }
+
+  form#search {
+    font-size: 24px;
+    font-family: 'Courier New', monospace;
+  }
+
